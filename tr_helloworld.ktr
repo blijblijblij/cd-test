@@ -126,7 +126,7 @@
       <displayHeader>Y</displayHeader>
       <limitRows>N</limitRows>
       <limitRowsNumber>0</limitRowsNumber>
-      <logmessage>Helloworld....</logmessage>
+      <logmessage>Helloworld.......</logmessage>
     <fields>
       <field>
         <name>hello</name>
