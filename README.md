@@ -1,2 +1,2 @@
-jenkinstest
+cd-test
 ===========
